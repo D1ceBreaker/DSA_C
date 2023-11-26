@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/dsa_lab3.dir/main.c.o CMakeFiles/dsa_lab3.dir/table.c.o CMakeFiles/dsa_lab3.dir/user.c.o CMakeFiles/dsa_lab3.dir/dialog.c.o -o dsa_lab3 
